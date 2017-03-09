@@ -1,3 +1,3 @@
 # class11-code
 
-Skeleton code for Exercise 3: War
+Skeleton code for Exercise 3: War!
